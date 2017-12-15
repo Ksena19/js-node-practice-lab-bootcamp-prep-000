@@ -6,5 +6,5 @@ var age = "20"
 console.log("Name:")
 console.log(name)
 
-console.log("Height:")
-console.log(age+1)
+console.log("Age:")
+console.log(parseInt(age)+1)
